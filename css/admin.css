@@ -1,0 +1,17 @@
+.konnichiwa-wrap {
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 2px;
+	padding-right: 5px;
+}
+
+.konnichiwa-form {
+	background-color: white;
+	border: 1px dashed gray;
+}
+
+.konnichiwa-form label {
+	display: block;
+	float: left;
+	min-width: 150px;
+}
